@@ -1,1 +1,1 @@
-Learning Node and its intoductory concepts
+Learning Node and its introductory concepts
